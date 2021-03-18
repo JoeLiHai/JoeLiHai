@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeLiHai
 - 👀 I’m interested in basketball and computer games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
